@@ -1,0 +1,11 @@
+.logedin .header {    top: 0px;}.logedin .o-grid__item {    top: 0px;}
+
+	
+    .affix {
+  
+    top: 99px !important;
+    
+}
+header.sticky  , .logged-in header{
+    top: 0px !important;
+}
